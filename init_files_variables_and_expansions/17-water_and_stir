@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $WATER | tr wáter  tr stir. printf “%o” | tr belhnort
+printf "%o\n" "$((5#$(echo $WATER | tr 'wate' '01234')+5#$(echo $STIR | tr 'stir.' '01234')))" | tr '01234567' 'bestchol'
