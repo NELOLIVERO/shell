@@ -1,3 +1,2 @@
 #!/bin/bash
 echo $WATER | tr wáter  tr stir. printf “%o” | tr belhnort
-
