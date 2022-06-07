@@ -1,2 +1,3 @@
 #!/bin/bash
-echo suma $((water + stir)) =  | tr  belhnort
+echo $WATER | tr wáter  tr stir. printf “%o” | tr belhnort
+
