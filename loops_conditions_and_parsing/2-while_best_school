@@ -3,6 +3,8 @@
 cont=1
 while [ $cont -le 10 ];
 do
- let cont=cont+1 
+    In 2-while_best_school line 6:
+    
+    ((expr)) cont=cont+1 
     echo "Best School"
 done
