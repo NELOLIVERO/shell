@@ -8,16 +8,16 @@ while [ $i -le 20 ]
 do
     echo "$i"
     case $i in
-       
-	    echo $i
+       4)
+    
             echo "bad luck from China"
 	    ;;
-	
-	    echo $i 
+	9)
+	     
 	    echo "bad luck from Japan"
 	    ;;
-	
-	    echo $i 
+	17)
+	    
 	    echo "bad luck from Italy"
 	    ;;
 	  esac
