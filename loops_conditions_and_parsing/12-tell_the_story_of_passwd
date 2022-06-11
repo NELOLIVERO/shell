@@ -6,6 +6,6 @@ while IFS= read -r line
 
 do
 
-  echo "$line"
+  echo "$line" | cut -d ':' -f1,3,5,7
   
 done < $FILENAME
